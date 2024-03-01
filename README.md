@@ -1,7 +1,7 @@
 <H3> Name : Sudharshna Lakshmi S</H3>
 <H3>Register No. 212221230110</H3>
 <H3> Experiment 1</H3>
-<H1> ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+<H1> <ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
 To create a bayesian Network for the given dataset in Python
